@@ -5,5 +5,7 @@ public class GitTest {
         System.out.printf("hello git1");
         System.out.printf("hello git2");
         System.out.printf("hello git3");
+        //冲突
+        System.out.printf("hot-fix test");
     }
 }
