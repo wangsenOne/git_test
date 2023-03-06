@@ -9,5 +9,6 @@ public class GitTest {
         //冲突
         System.out.printf("hot-fix test");
         System.out.printf("推送代码到远程仓库");
+         System.out.printf("pull");
     }
 }
