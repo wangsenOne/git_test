@@ -6,5 +6,8 @@ public class GitTest {
         System.out.printf("hello git2");
         System.out.printf("hello git3");
         System.out.printf("master test");
+        //冲突
+        System.out.printf("hot-fix test");
+        System.out.printf("推送代码到远程仓库");
     }
 }
